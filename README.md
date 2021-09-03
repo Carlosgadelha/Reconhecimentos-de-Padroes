@@ -1,0 +1,1 @@
+# Reconhecimentos-de-Padroes
